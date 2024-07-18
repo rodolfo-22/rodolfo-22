@@ -2,8 +2,10 @@
 <h1 align="center">Hello! I'm Rodolfo</h1>
 </div>
 ## About me
-
-I'm a young self-taught programmer and a software engineering student at the Universidad Centroamericana José Simeón Cañas. Since a young age, I've been fascinated by understanding how things work, from the simple click of a button to the complex interactions between computer systems.<br><br>My passion for computer science has led me to embark on various projects, with the most recent being the development of a mobile application alongside fellow students. This application is a social selling platform designed exclusively for our university campus, providing a safe space for students to buy and sell among themselves.<br><br>My experience spans from front-end development, where I've contributed to the creation of web pages using HTML, CSS, and JavaScript, including a successful beta enrollment system. Additionally, I've delved into the world of backend development, working on the creation and consumption of databases for various projects.<br><br>I actively participate in contests and competitions within the university, always seeking challenges that allow me to expand my skills and knowledge in the wonderful world of programming.<br><br>I'm excited to continue learning and growing in this ever-evolving industry, and I look forward to sharing my upcoming projects with you!<br><br>Thank you for visiting my profile! 💻📱🎓
+<br><br>
+I'm a self-taught programmer and software engineering student at the Universidad Centroamericana José Simeón Cañas. My passion for computer science has led me to develop a mobile application for our university, creating a social selling platform for students. I have experience in both front-end (HTML, CSS, JavaScript) and back-end development, including database management.
+<br><br>
+I actively participate in university contests and competitions, constantly seeking challenges to expand my skills. I am eager to continue learning and growing in this dynamic field, and I look forward to sharing my future projects.!<br><br>Thank you for visiting my profile! 💻📱🎓
 
 
 ## 🌐 Socials:
