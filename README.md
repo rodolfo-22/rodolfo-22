@@ -17,12 +17,10 @@ I actively participate in university contests and competitions, constantly seeki
 
 <br>
 <h2 align="center">📊 Github Stats</h2>
-
 <div align = "center">
 ![](https://github-readme-stats.vercel.app/api?username=rodolfo-22&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rodolfo-22&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-22&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-22&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </div>
 <br>
 
