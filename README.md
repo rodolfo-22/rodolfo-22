@@ -4,10 +4,11 @@
 ## About me
 ##
 <br>
+<div align="center">
 I'm a self-taught programmer and software engineering student at the Universidad Centroamericana José Simeón Cañas. My passion for computer science has led me to develop a mobile application for our university, creating a social selling platform for students. I have experience in both front-end (HTML, CSS, JavaScript) and back-end development, including database management.
 <br><br>
 I actively participate in university contests and competitions, constantly seeking challenges to expand my skills. I am eager to continue learning and growing in this dynamic field, and I look forward to sharing my future projects.!<br><br>Thank you for visiting my profile! 💻📱🎓
-
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolfogarcíacastillo) 
