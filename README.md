@@ -16,7 +16,7 @@ I actively participate in university contests and competitions, constantly seeki
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rodolfo-22&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rodolfo-22&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-22&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-22&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rodolfo-22&theme=nord&no-frame=false&no-bg=true&margin-w=4)
